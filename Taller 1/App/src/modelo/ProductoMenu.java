@@ -1,6 +1,6 @@
 package modelo;
 
-public class ProductoMenu {
+public class ProductoMenu implements Producto{
 	private String nombre;
 	private int precioBase;
 	

@@ -1,6 +1,6 @@
 package modelo;
 
-public class Combo {
+public class Combo implements Producto{
 	private double descuento;
 	private String nombre;
 	private int precio;
